@@ -5,6 +5,8 @@ The **Tokenizing Intellectual Property** project enables researchers to tokenize
 
 ## Contract Address
 0xD14C803A2A31Ea875ED1D14Aa5dA433Fd9314CEb
+![image](https://github.com/user-attachments/assets/e7c03209-24b6-429e-9f7f-b242e190d16b)
+
 
 ## Project Vision
 Our vision is to revolutionize intellectual property management by leveraging blockchain to ensure transparency, security, and equitable monetization. This project aims to:
